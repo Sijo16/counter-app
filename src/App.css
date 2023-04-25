@@ -1,0 +1,12 @@
+
+
+.hi:hover{
+    color: red;
+}
+
+.dash{
+    background-image: url('https://media.giphy.com/media/CGZGV8wix4lvJn3dxy/giphy.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
